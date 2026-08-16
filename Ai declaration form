@@ -1,0 +1,71 @@
+AI Use Declaration Form
+Course: Introduction to Artificial Intelligence
+Lab Title: Lab 4 
+Student Name: _____Victoria Nyonator______________________________________________
+Student ID: _____11672027_________________________________________________
+GitHub Repository Link: ____https://github.com/amaesinam/Victoria_Nyonator_lab_4______________________________________
+Date Submitted: _________16/08/26_________________________________________
+
+1. AI Use Summary
+Question	Student Response
+Did you use any AI tool for this lab?	Yes
+Estimated percentage of the work influenced by AI	 % 20
+Did you attach evidence of AI use where applicable?	yes
+
+2. Details of AI Use
+Complete the table below for each AI tool used. Add more rows where necessary.
+Name of AI Tool Used	Purpose for Using the Tool	Prompt or Instruction Given to the Tool	Part(s) of the Work Influenced by the Tool	How I Verified, Edited, or Improved the AI Output
+	Used gemini			
+				
+				
+
+3. Attachment of AI Output Evidence
+Where required, attach evidence of AI use. Tick all that apply. Add more rows where necessary.
+Evidence Type	Attached? (Yes, No, N/A)	yes
+AI-generated draft		
+Prompt history		
+Screenshot of AI interaction		
+Exported AI conversation		
+AI-generated code snippet		
+Revised version showing student input
+
+INPUT:whith committing individually each section provide me prompt for all to be commiting
+
+OUTPUT:# Save your lab_4.ipynb notebook and prompts.py in VS Code first! (Ctrl + S)
+
+# 1. Commit Section 4 (Evaluation & Mismatches)
+git add lab_4.ipynb
+git commit -m "feat: complete Section 4 - evaluation metrics and error analysis"
+
+# 2. Commit Part 4.2 (Reliability Test)
+git add lab_4.ipynb
+git commit -m "feat: complete Part 4.2 - reliability testing across temperatures"
+
+# 3. Commit Part 4.3 (Hallucination Probing)
+git add lab_4.ipynb
+git commit -m "feat: complete Part 4.3 - hallucination probing and adversarial testing"
+
+# 4. Commit Part 4.4 (Appropriateness & Ethics)
+git add lab_4.ipynb
+git commit -m "feat: complete Part 4.4 - appropriateness, data privacy, and safeguards"
+
+# 5. Commit Section 5 (Reflections)
+git add lab_4.ipynb
+git commit -m "feat: complete Section 5 - course reflections on prompting, trust, and scale"
+
+# 6. Push all commits at once to GitHub
+git push origin main
+
+4. Student Declaration
+I declare that:
+Declaration Statement	Response (Yes/No)yes
+The submitted work is my own work.	
+Any use of AI tools has been clearly declared in this form.	
+The prompts, instructions, and AI-generated outputs have been disclosed where applicable.	
+I reviewed, tested, edited, and improved any AI-generated content before submission.	
+My AI usage does not exceed 25% of the entire work.	
+I understand that undeclared or excessive AI use may be treated as academic misconduct.	
+
+Student Signature: __VICTORIA NYONATOR_________________________________________
+Date: _____________16/08/26______________________________
+
